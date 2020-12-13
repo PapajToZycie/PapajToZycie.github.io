@@ -84,7 +84,7 @@ input, select, textarea {
 
 	body {
 		background-color: #183026;
-		background-image: url("images/overlay.png"), url("../../images/bg.jpg");
+		background-image: url("images/overlay.png"), url("../../images/aryst.jpg");
 		background-repeat: repeat, no-repeat;
 		background-size: auto, cover;
 		background-position: top left, center 0;
@@ -1479,6 +1479,17 @@ input, select, textarea {
 	.row > section, .row > article {
 		margin-bottom: 0;
 	}
+
+.cock
+{
+	display: inline;
+	border: 1px;
+	border-style: solid;
+	border-color: white;
+	padding: 0.5em;
+	border-radius: 50px;
+	margin-top: 0px;
+}
 
 /* Image */
 
